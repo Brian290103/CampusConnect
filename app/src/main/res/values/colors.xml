@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#191919</color>
+    <color name="primary_light">#E3DCD6</color>
+
+    <!--    RED-->
+    <color name="red_50">#FFEBEE</color>
+    <color name="red_A400">#FF1744</color>
+    <!--    PINK-->
+    <color name="pink_50">#FCE4EC</color>
+    <color name="pink_400">#EC407A</color>
+    <!-- Grey -->
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_900">#212121</color>
+    <!--    PURPLE-->
+    <color name="purple_50">#F3E5F5</color>
+    <color name="purple_A400">#D500F9</color>
+    <!--    BLUE-->
+    <color name="blue_50">#E3F2FD</color>
+    <color name="blue_A400">#2979FF</color>
+    <!--    CYAN-->
+    <color name="cyan_50">#E0F7FA</color>
+    <color name="cyan_A400">#00E5FF</color>
+    <!-- Teal -->
+    <color name="teal_50">#E0F2F1</color>
+    <color name="teal_A400">#1DE9B6</color>
+    <!-- Lime -->
+    <color name="lime_50">#F9FBE7</color>
+    <color name="lime_A400">#C6FF00</color>
+    <!--    YELLOW-->
+    <color name="yellow_50">#FFFDE7</color>
+    <color name="yellow_A400">#FFEA00</color>
+    <!-- Amber -->
+    <color name="amber_50">#FFF8E1</color>
+    <color name="amber_A400">#FFC400</color>
+    <!-- Orange -->
+    <color name="orange_50">#FFF3E0</color>
+    <color name="orange_A400">#FF9100</color>
+    <!-- Deep Orange -->
+    <color name="deep_orange_50">#FBE9E7</color>
+    <color name="deep_orange_A400">#FF3D00</color>
+    <!-- Brown -->
+    <color name="brown_50">#EFEBE9</color>
+    <color name="brown_900">#3E2723</color>
+
+    <!--    GREEN-->
+    <color name="green_50">#E8F5E9</color>
+    <color name="green_A400">#00E676</color>
+    <!--    GREEN-->
+</resources>

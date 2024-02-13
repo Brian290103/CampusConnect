@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mn_home"
+        android:enabled="true"
+        android:icon="@drawable/house"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/mn_inbox"
+        android:enabled="true"
+        android:icon="@drawable/chatting"
+        android:title="Inbox"/>
+
+    <item
+        android:id="@+id/mn_search"
+        android:enabled="true"
+        android:icon="@drawable/search"
+        android:title="Search"/>
+    <item
+        android:id="@+id/mn_orders"
+        android:enabled="true"
+        android:icon="@drawable/to_do_list"
+        android:title="Orders"/>
+    <item
+        android:id="@+id/mn_profile"
+        android:enabled="true"
+        android:icon="@drawable/profile"
+        android:title="Profile"/>
+</menu>

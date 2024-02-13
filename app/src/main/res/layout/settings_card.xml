@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/settings_card"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="12dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="30dp"
+            android:id="@+id/icon"
+            android:layout_height="30dp"
+            android:src="@drawable/profile"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/title"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="24dp"
+            android:text="Lorem Ipsum"/>
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:src="@drawable/next"/>
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
